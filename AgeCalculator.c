@@ -1,3 +1,7 @@
+/* Author : Geshwar Kumar Dhankar
+*  Updated By : Harshad Verma
+*  Update Date : 29/06/2019
+*/
 #include<stdio.h>
 #include<stdlib.h>
 
